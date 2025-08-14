@@ -1,0 +1,21 @@
+1. Opened Google Chrome and navigated to: chrome://extensions/
+2. Reviewed each extension’s:
+   - Name
+   - Developer
+   - Permissions
+   - Last update date
+
+3. Identified suspicious extensions:
+   - Extensions I did not remember installing
+   - Extensions with excessive permissions
+   - Extensions with poor or no reviews
+
+4. Verified findings through:
+   - Google search
+   - Chrome Web Store reviews
+
+5. Removed suspicious extensions using the 'Remove' button.
+
+6. Restarted Google Chrome.
+
+7. Observed improved browser performance and reduced ads.
