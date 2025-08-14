@@ -1,0 +1,13 @@
+Suspicious Extensions Found (Google Chrome):
+
+1. Fast Search Tool
+   - Reason: Requested permission to read/modify data on all websites.
+   - Status: Removed
+
+2. Video Downloader Pro
+   - Reason: Poor reviews, multiple reports of intrusive ads.
+   - Status: Removed
+
+Performance After Removal:
+- Reduced unwanted pop-ups
+- Faster browser startup
